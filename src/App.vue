@@ -4,6 +4,8 @@
   import AppFooter from './components/AppFooter.vue';
   import { store } from './store.js';
 
+  
+
   export default {
     components: {
       AppHeader: AppHeader,
