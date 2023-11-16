@@ -16,6 +16,29 @@
     {
       "name": "CONTACT"
     }
-  ]
+  ],
 
+  "consultants": [
+    {
+      "img" : "../../../public/graph.png",
+      "title": "STATISCAL CONSULTING",
+      "description": "When, while lovely valley teem with vapour around meand eridian sun strikes the upper impenetrable foliage of my trees, and but a"
+    },
+    {
+      "img" : "../../../public/megaphone.png",
+      "title": "DIGITAL CONSULTING",
+      "description": "When, while lovely valley teem with vapour around meand eridian sun strikes the upper impenetrable foliage of my trees, and but a"
+    },
+    {
+      "img" : "../../../public/wallet.png",
+      "title": "BANKING CONSULTING",
+      "description": "When, while lovely valley teem with vapour around meand eridian sun strikes the upper impenetrable foliage of my trees, and but a"
+    },
+    {
+      "img" : "../../../public/target.png",
+      "title": "ENTERPRISE CONSULTING",
+      "description": "When, while lovely valley teem with vapour around meand eridian sun strikes the upper impenetrable foliage of my trees, and but a"
+    }
+    
+  ]
 }

@@ -1,9 +1,25 @@
 <script>
 
+  import { store } from '../store';
+
+  import AppConsultant from './main/AppConsultant.vue'
+
+  export default{
+
+    components: {
+      AppConsultant: AppConsultant,
+    },
+    data(){
+      return{
+        store: store
+      }
+    }
+  }
+
 </script>
 
 <template>
-  <h1>Main</h1>
+  <AppConsultant></AppConsultant>
 </template>
 
 <style scoped>

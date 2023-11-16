@@ -44,16 +44,6 @@
       </div>
     </div>
   </div>
-
-
-
- <!-- <div class="container">
-    <div class="row">
-      <div class="col-title">
-        <h1 class="title">THE BEST BUSINESS CONSULTING</h1>
-      </div>
-    </div>
-  </div> -->
 </template>
 
 <style lang="scss" scoped>
