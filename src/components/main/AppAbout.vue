@@ -88,7 +88,7 @@ export default {
 
 .flex {
   display: flex;
-  align-items: center;
+  align-items: baseline;
   gap: 10px;
 }
 
