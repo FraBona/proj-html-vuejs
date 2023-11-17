@@ -149,7 +149,7 @@ export default {
   flex-direction: column;
 }
 .align-item {
-  align-items: flex-end;
+  align-items: baseline;
   gap: 10px;
 }
 
