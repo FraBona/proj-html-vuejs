@@ -79,5 +79,6 @@
 }
 .p-footer{
   color: $grey;
+  font-size: 18px;
 }
 </style>
