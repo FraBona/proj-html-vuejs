@@ -201,4 +201,18 @@ export default {
   transform: translateY(50%);
   justify-content: flex-start;
 }
+
+.btn-read:hover{
+  background-color: $red-light;
+  border: 5px solid $blue-dark;
+  color: white;
+}
+
+.menu__item{
+  color: $grey;
+}
+
+.menu__item:hover{
+  color: white;
+}
 </style>
